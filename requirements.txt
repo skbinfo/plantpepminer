@@ -1,0 +1,12 @@
+PyMuPDF>=1.22.0
+pandas>=2.0.0
+biopython>=1.80
+tqdm>=4.65.0
+Pillow>=9.5.0
+pytesseract>=0.3.10
+openpyxl>=3.1.0
+numpy
+scikit-learn
+matplotlib
+torch
+transformers
