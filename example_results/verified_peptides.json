@@ -1,0 +1,1727 @@
+[
+  {
+    "pmid": "25807486",
+    "sequence": "MPSWHGMVLLPYVKHTHASTHTHTHNIYGCACELVFH",
+    "sequence_line": "",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "Synthetic Peptide",
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0,
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "Peptides were synthesized by Smartox (http://www.smartox-biotech.com) and dissolved at 10 mM in water (miPEP164a, miPEP65a), in 10% acetic acid (v/v) (miPEP169d), or in 40% water, 50% acetonitrile and 10% acetic acid (v/v/v) (miPEP171b).",
+      "Peptides were synthesized by Smartox (http://www.smartox-biotech.com) and dissolved at 10 mM in water (miPEP164a, miPEP65a), in 10% acetic acid (v/v) (miPEP169d), or in 40% water, 50% acetonitrile and 10% acetic acid (v/v/v) (miPEP171b)."
+    ],
+    "verified_species": "Medicago truncatula",
+    "species_confidence": 0.95,
+    "species_evidence_line": "the pri-miR171b of Medicago truncatula and the pri-miR165a of Arabidopsis thaliana produce peptides, which we term miPEP171b and miPEP165a, respectively...",
+    "evidence_score": 2.0,
+    "context": "ls of expression in Fig. 4a,c for the controls were\nset at 100. For all the qPCR, each biological sample has two technical replicates.\nStatistical analyses. The mean values of relative gene expression, lateral root pro-\nduction or root length were compared by using Student\u2019s t-test (when n . 30) or\nthe Kruskal\u2013Wallis test (when n , 30). In each case, n represents independent\nbiological replicates. Error bars represent the standard error of the mean (s.e.m.).\nAsterisks indicate significant differences (P , 0.05). No statistical methods were\nused to predetermine sample size.\nPeptide assays. Peptides were synthesized by Smartox (http://www.smartox-\nbiotech.com) and dissolved at 10 mM in water (miPEP164a, miPEP65a), in 10%\nacetic acid (v/v) (miPEP169d), or in 40% water, 50% acetonitrile and 10% acetic\nacid (v/v/v) (miPEP171b). Plants were treated with concentrations from 0.01 to\n10 mM peptide diluted in the agar growth medium or in solution in water (for\nFig. 4a, b).\nSequences. miPEP164a: MPSWHGMVLLPYVKHTHASTHTHTHNIYGCACE\nLVFH; miPEP165a: MRVKLFQLRGMLSGSRIL; scrambled miPEP165a: SMKQ\nRVLLGRLSIFGLMR; miPEP169d: MVKESFMERLKVR; miPEP171b: MLLHRLS\nKFCKIERDIVYIS; scrambled miPEP171b: LIVSHLYSEKFDCMRKILRI.\nAntibodies. Polyclonal antibodies against full-length miPEP165a andmiPEP171b\nwere obtained by inoculating rabbits (http://www.agrobio.com). Antibodies were\npurifiedbyaffinitychromatographyoncolumnscontainingtheappropriatepeptide.\nImmunoblots. Total protein extracts were obtained as described previously3, and\n50 mg were loaded and separated by SDSPAGE. Transfer was performed in phos-\nphate buffer overnight at 4 uC and at 15 V, and the membrane was incubated for\n45 minatroomtemperature in0.2%(v/v)glutaraldehyde.Primaryantibodieswere\nused at 1:1,000 (v/v) dilution and HRP-conjugated goat anti-rabbit IgG (http://\nwww.agrobio.com) was used as secondary antibody at 1:40,000 (v/v) dilution. Im-\nmunoblotting of tubulin was performed as a control for equal loading (Fig. 3a).\nImmunohistochemistry. Hairy roots and plantle",
+    "bio_prob": 0.752678632736206,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "Peptides were synthesized by Smartox (http://www.smartox-biotech.com) and dissolved at 10 mM in water (miPEP164a, miPEP65a), in 10% acetic acid (v/v) (miPEP169d), or in 40% water, 50% acetonitrile and 10% acetic acid (v/v/v) (miPEP171b)."
+  },
+  {
+    "pmid": "25807486",
+    "sequence": "MLLHRLSKFCKIERDIVYIS",
+    "sequence_line": "",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "Synthetic Peptide",
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0,
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "Peptides were synthesized by Smartox (http://www.smartox-biotech.com) and dissolved at 10 mM in water (miPEP164a, miPEP65a), in 10% acetic acid (v/v) (miPEP169d), or in 40% water, 50% acetonitrile and 10% acetic acid (v/v/v) (miPEP171b).",
+      "Peptides were synthesized by Smartox (http://www.smartox-biotech.com) and dissolved at 10 mM in water (miPEP164a, miPEP65a), in 10% acetic acid (v/v) (miPEP169d), or in 40% water, 50% acetonitrile and 10% acetic acid (v/v/v) (miPEP171b)."
+    ],
+    "verified_species": "Medicago truncatula",
+    "species_confidence": 0.95,
+    "species_evidence_line": "the pri-miR171b of Medicago truncatula and the pri-miR165a of Arabidopsis thaliana produce peptides, which we term miPEP171b and miPEP165a, respectively...",
+    "evidence_score": 2.0,
+    "context": "lyses. The mean values of relative gene expression, lateral root pro-\nduction or root length were compared by using Student\u2019s t-test (when n . 30) or\nthe Kruskal\u2013Wallis test (when n , 30). In each case, n represents independent\nbiological replicates. Error bars represent the standard error of the mean (s.e.m.).\nAsterisks indicate significant differences (P , 0.05). No statistical methods were\nused to predetermine sample size.\nPeptide assays. Peptides were synthesized by Smartox (http://www.smartox-\nbiotech.com) and dissolved at 10 mM in water (miPEP164a, miPEP65a), in 10%\nacetic acid (v/v) (miPEP169d), or in 40% water, 50% acetonitrile and 10% acetic\nacid (v/v/v) (miPEP171b). Plants were treated with concentrations from 0.01 to\n10 mM peptide diluted in the agar growth medium or in solution in water (for\nFig. 4a, b).\nSequences. miPEP164a: MPSWHGMVLLPYVKHTHASTHTHTHNIYGCACE\nLVFH; miPEP165a: MRVKLFQLRGMLSGSRIL; scrambled miPEP165a: SMKQ\nRVLLGRLSIFGLMR; miPEP169d: MVKESFMERLKVR; miPEP171b: MLLHRLS\nKFCKIERDIVYIS; scrambled miPEP171b: LIVSHLYSEKFDCMRKILRI.\nAntibodies. Polyclonal antibodies against full-length miPEP165a andmiPEP171b\nwere obtained by inoculating rabbits (http://www.agrobio.com). Antibodies were\npurifiedbyaffinitychromatographyoncolumnscontainingtheappropriatepeptide.\nImmunoblots. Total protein extracts were obtained as described previously3, and\n50 mg were loaded and separated by SDSPAGE. Transfer was performed in phos-\nphate buffer overnight at 4 uC and at 15 V, and the membrane was incubated for\n45 minatroomtemperature in0.2%(v/v)glutaraldehyde.Primaryantibodieswere\nused at 1:1,000 (v/v) dilution and HRP-conjugated goat anti-rabbit IgG (http://\nwww.agrobio.com) was used as secondary antibody at 1:40,000 (v/v) dilution. Im-\nmunoblotting of tubulin was performed as a control for equal loading (Fig. 3a).\nImmunohistochemistry. Hairy roots and plantlets of M. truncatula were fixed for\ntwo hours in 4% (v/v) formalin in 50 mM cacodylate buffer (pH7.2). Then they\nwere embedded in 5% l",
+    "bio_prob": 0.7636388540267944,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "Peptides were synthesized by Smartox (http://www.smartox-biotech.com) and dissolved at 10 mM in water (miPEP164a, miPEP65a), in 10% acetic acid (v/v) (miPEP169d), or in 40% water, 50% acetonitrile and 10% acetic acid (v/v/v) (miPEP171b)."
+  },
+  {
+    "pmid": "25807486",
+    "sequence": "MPSWHGMVLLPYVKHTHASTHTHTHNIYGCACE",
+    "sequence_line": "Sequences. miPEP164a: MPSWHGMVLLPYVKHTHASTHTHTHNIYGCACE",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "Plants were treated with concentrations from 0.01 to 10 mM peptide diluted in the agar growth medium or in solution in water (for Fig. 4a, b)."
+    ],
+    "verified_species": "Medicago truncatula",
+    "species_confidence": 0.95,
+    "species_evidence_line": "the pri-miR171b of Medicago truncatula and the pri-miR165a of Arabidopsis thaliana produce peptides, which we term miPEP171b and miPEP165a, respectively...",
+    "evidence_score": 1.0,
+    "context": "acid (v/v/v) (miPEP171b). Plants were treated with concentrations from 0.01 to\n10 mM peptide diluted in the agar growth medium or in solution in water (for\nFig. 4a, b).\nSequences. miPEP164a: MPSWHGMVLLPYVKHTHASTHTHTHNIYGCACE\nLVFH; miPEP165a: MRVKLFQLRGMLSGSRIL; scrambled miPEP165a: SMKQ\nRVLLGRLSIFGLMR; miPEP169d: MVKESFMERLKVR; miPEP171b: MLLHRLS\nKFCKIERDIVYIS; scrambled miPEP171b: LIVSHLYSEKFDCMRKILRI.",
+    "bio_prob": 0.6689072251319885,
+    "sequence_score": 0.8250628588217344,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "Plants were treated with concentrations from 0.01 to 10 mM peptide diluted in the agar growth medium or in solution in water (for Fig. 4a, b)."
+  },
+  {
+    "pmid": "25807486",
+    "sequence": "MRVKLFQLRGMLSGSRIL",
+    "sequence_line": "LVFH; miPEP165a: MRVKLFQLRGMLSGSRIL; scrambled miPEP165a: SMKQ",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "Synthetic Peptide",
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0,
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "Peptides were synthesized by Smartox (http://www.smartox-biotech.com) and dissolved at 10 mM in water (miPEP164a, miPEP65a), in 10% acetic acid (v/v) (miPEP169d), or in 40% water, 50% acetonitrile and 10% acetic acid (v/v/v) (miPEP171b).",
+      "Peptides were synthesized by Smartox (http://www.smartox-biotech.com) and dissolved at 10 mM in water (miPEP164a, miPEP65a), in 10% acetic acid (v/v) (miPEP169d), or in 40% water, 50% acetonitrile and 10% acetic acid (v/v/v) (miPEP171b)."
+    ],
+    "verified_species": "Medicago truncatula",
+    "species_confidence": 0.95,
+    "species_evidence_line": "the pri-miR171b of Medicago truncatula and the pri-miR165a of Arabidopsis thaliana produce peptides, which we term miPEP171b and miPEP165a, respectively...",
+    "evidence_score": 2.0,
+    "context": "\nset at 100. For all the qPCR, each biological sample has two technical replicates.\nStatistical analyses. The mean values of relative gene expression, lateral root pro-\nduction or root length were compared by using Student\u2019s t-test (when n . 30) or\nthe Kruskal\u2013Wallis test (when n , 30). In each case, n represents independent\nbiological replicates. Error bars represent the standard error of the mean (s.e.m.).\nAsterisks indicate significant differences (P , 0.05). No statistical methods were\nused to predetermine sample size.\nPeptide assays. Peptides were synthesized by Smartox (http://www.smartox-\nbiotech.com) and dissolved at 10 mM in water (miPEP164a, miPEP65a), in 10%\nacetic acid (v/v) (miPEP169d), or in 40% water, 50% acetonitrile and 10% acetic\nacid (v/v/v) (miPEP171b). Plants were treated with concentrations from 0.01 to\n10 mM peptide diluted in the agar growth medium or in solution in water (for\nFig. 4a, b).\nSequences. miPEP164a: MPSWHGMVLLPYVKHTHASTHTHTHNIYGCACE\nLVFH; miPEP165a: MRVKLFQLRGMLSGSRIL; scrambled miPEP165a: SMKQ\nRVLLGRLSIFGLMR; miPEP169d: MVKESFMERLKVR; miPEP171b: MLLHRLS\nKFCKIERDIVYIS; scrambled miPEP171b: LIVSHLYSEKFDCMRKILRI.\nAntibodies. Polyclonal antibodies against full-length miPEP165a andmiPEP171b\nwere obtained by inoculating rabbits (http://www.agrobio.com). Antibodies were\npurifiedbyaffinitychromatographyoncolumnscontainingtheappropriatepeptide.\nImmunoblots. Total protein extracts were obtained as described previously3, and\n50 mg were loaded and separated by SDSPAGE. Transfer was performed in phos-\nphate buffer overnight at 4 uC and at 15 V, and the membrane was incubated for\n45 minatroomtemperature in0.2%(v/v)glutaraldehyde.Primaryantibodieswere\nused at 1:1,000 (v/v) dilution and HRP-conjugated goat anti-rabbit IgG (http://\nwww.agrobio.com) was used as secondary antibody at 1:40,000 (v/v) dilution. Im-\nmunoblotting of tubulin was performed as a control for equal loading (Fig. 3a).\nImmunohistochemistry. Hairy roots and plantlets of M. truncatula were fixed ",
+    "bio_prob": 0.7572510242462158,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "Peptides were synthesized by Smartox (http://www.smartox-biotech.com) and dissolved at 10 mM in water (miPEP164a, miPEP65a), in 10% acetic acid (v/v) (miPEP169d), or in 40% water, 50% acetonitrile and 10% acetic acid (v/v/v) (miPEP171b)."
+  },
+  {
+    "pmid": "25807486",
+    "sequence": "MVKESFMERLKVR",
+    "sequence_line": "RVLLGRLSIFGLMR; miPEP169d: MVKESFMERLKVR; miPEP171b: MLLHRLS",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "Synthetic Peptide",
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0,
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "Peptides were synthesized by Smartox (http://www.smartox-biotech.com) and dissolved at 10 mM in water (miPEP164a, miPEP65a), in 10% acetic acid (v/v) (miPEP169d), or in 40% water, 50% acetonitrile and 10% acetic acid (v/v/v) (miPEP171b).",
+      "Peptides were synthesized by Smartox (http://www.smartox-biotech.com) and dissolved at 10 mM in water (miPEP164a, miPEP65a), in 10% acetic acid (v/v) (miPEP169d), or in 40% water, 50% acetonitrile and 10% acetic acid (v/v/v) (miPEP171b)."
+    ],
+    "verified_species": "Medicago truncatula",
+    "species_confidence": 0.95,
+    "species_evidence_line": "the pri-miR171b of Medicago truncatula and the pri-miR165a of Arabidopsis thaliana produce peptides, which we term miPEP171b and miPEP165a, respectively...",
+    "evidence_score": 2.0,
+    "context": "eplicates.\nStatistical analyses. The mean values of relative gene expression, lateral root pro-\nduction or root length were compared by using Student\u2019s t-test (when n . 30) or\nthe Kruskal\u2013Wallis test (when n , 30). In each case, n represents independent\nbiological replicates. Error bars represent the standard error of the mean (s.e.m.).\nAsterisks indicate significant differences (P , 0.05). No statistical methods were\nused to predetermine sample size.\nPeptide assays. Peptides were synthesized by Smartox (http://www.smartox-\nbiotech.com) and dissolved at 10 mM in water (miPEP164a, miPEP65a), in 10%\nacetic acid (v/v) (miPEP169d), or in 40% water, 50% acetonitrile and 10% acetic\nacid (v/v/v) (miPEP171b). Plants were treated with concentrations from 0.01 to\n10 mM peptide diluted in the agar growth medium or in solution in water (for\nFig. 4a, b).\nSequences. miPEP164a: MPSWHGMVLLPYVKHTHASTHTHTHNIYGCACE\nLVFH; miPEP165a: MRVKLFQLRGMLSGSRIL; scrambled miPEP165a: SMKQ\nRVLLGRLSIFGLMR; miPEP169d: MVKESFMERLKVR; miPEP171b: MLLHRLS\nKFCKIERDIVYIS; scrambled miPEP171b: LIVSHLYSEKFDCMRKILRI.\nAntibodies. Polyclonal antibodies against full-length miPEP165a andmiPEP171b\nwere obtained by inoculating rabbits (http://www.agrobio.com). Antibodies were\npurifiedbyaffinitychromatographyoncolumnscontainingtheappropriatepeptide.\nImmunoblots. Total protein extracts were obtained as described previously3, and\n50 mg were loaded and separated by SDSPAGE. Transfer was performed in phos-\nphate buffer overnight at 4 uC and at 15 V, and the membrane was incubated for\n45 minatroomtemperature in0.2%(v/v)glutaraldehyde.Primaryantibodieswere\nused at 1:1,000 (v/v) dilution and HRP-conjugated goat anti-rabbit IgG (http://\nwww.agrobio.com) was used as secondary antibody at 1:40,000 (v/v) dilution. Im-\nmunoblotting of tubulin was performed as a control for equal loading (Fig. 3a).\nImmunohistochemistry. Hairy roots and plantlets of M. truncatula were fixed for\ntwo hours in 4% (v/v) formalin in 50 mM cacodylate buffer (pH7.2",
+    "bio_prob": 0.7620574235916138,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "Peptides were synthesized by Smartox (http://www.smartox-biotech.com) and dissolved at 10 mM in water (miPEP164a, miPEP65a), in 10% acetic acid (v/v) (miPEP169d), or in 40% water, 50% acetonitrile and 10% acetic acid (v/v/v) (miPEP171b)."
+  },
+  {
+    "pmid": "25807486",
+    "sequence": "MVSGQEDSWLKLSSLCFLFLSLLQSLL",
+    "sequence_line": "miP=EP1\u00e92a MVSGQEDSWLKLS SLCFLFLSLLOSLI 27 3045",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is listed as a miPEP, which implies it is a peptide.",
+    "verified_techniques": [],
+    "technique_scores": [],
+    "technique_evidence_lines": [],
+    "verified_species": "Medicago truncatula",
+    "species_confidence": 0.95,
+    "species_evidence_line": "the pri-miR171b of Medicago truncatula and the pri-miR165a of Arabidopsis thaliana produce peptides, which we term miPEP171b and miPEP165a, respectively...",
+    "evidence_score": 1.0,
+    "context": "\nmiPEP 1653 (uM)\n\na . b\n: 200 250\n& 5 *\n4 5\n= 18 2 20\nzB =\nP|\n& 5 15)\nS 100 2\n> =\nx : 100\nSs =\n= 2 be @)\n2 =\n0 a\ncontrol miPEP 160b control miPEP 1643 0, 1pM\nC\n5\nS 400\n\u2014\nPo *\n5 300\n=\nS\n2 200\nE\n= 100\n5\nQo\ne\n0\ncontrol 35S miORF319\nd e\n*\nS 280 \u2018 ; =\nB .\n= 2\n= 200 = 150\n= =\ngS 18 o\n2 = 100\nE 100 .\n> $ 30\ns 6 =\n5 &\ne : e\n0\ncontrol miPEP 169d 0, ipM control 25S miPEPt7te\n\na | es |e eed |e)\nPromoter pri-mir171b 1127 91 100 8.07 161\n5\u2019 pri-miR171b 129 = \u201c 3.1 5\nmiPEP171b 62 2 2 3.22 3\nPre-miR171b 118 1 1 0.85 2\nmiR171b+miR171b* 42 0001\n3\u2019 pri-miR171b 259 39 42 15.06 89\n\nname sequence size (aa) size (MW)\nmiP=P1S\u00e9a MFCSIQCVARHLFPLHVREIKKATRAIKKGKTL 33 3824\nmiP=P1S\u20acc MKDONFPLLLAL 11 1359\nmiP=P1S\u00e9e MIYINKYGSISAVEDD 16 1818\nmiP=P1S\u00e9\u00a3 MSOR 4 520\nmiP=EP1S7c MMLHTITHRFESDVGC 1S 1776\nmiP=P1S7d MLYV 4 $24\nmiP=EP1S9a MIWPLLSLSFLLSKYV 16 1898\nmiP=P1S 9b MFYLS 5 \u00e9s9\nmiP=EP1\u00e90a MFCLLIPIFSFVFSPNRHLRLQEQ 24 2936\nmiP= P1\u00e90b MFSPQ 5 608\nmiPEP1\u00e96\u00e90c MEMRRGLVYNNIYI 14 1730\nmiP=P1\u00a2\u00e91 MKIPLFLPKL 10 1199\nmiP=EP1\u00e92a MVSGQEDSWLKLS SLCFLFLSLLOSLI 27 3045\nmiP=EP1\u00e92b MFLLIFLRLIMICVCSSIDFLRSVNYFCLFIYDL 34 4114\nmiP=EP16\u00e93 MSTTQEHRS i) 1076\nmiP=EP1\u00e94a MPSWHGMVLLPYVKHTHASTHTHIHNIYGCACELVEIH 37 4256\nmiP=EP1\u00e94b MMKVCDEQDGEAGHVHY 17 1949\nmiPEP1\u00e9Sa MRVKLFIQLRAGMLSGSRIL 18 2105\nmiP=P1\u00e9\u00e9a MLDLFRSNNRIEPSDFRED 19 2372\nmiP=P16\u00e9b MRDR a $76\nmiP=EP1\u00e9\u00e9c MKKRITRINLEEQIKKTLDDSRTRLHSP 28 3407\nmiP=P1\u00e9\u00e9d MKKIGSIDSF 10 1125\nmiPEP1\u00e97a MNRKISLSLS 10 1148\nmiP=P1\u00e97b MMGCEVGF 8 891\nmIPEP1\u00e9Sa MTICREK \u00e9 784\nmiP=EP1\u00e99c MPHTNLKDLFIFSPNVFFSFAIYLHNSWNKNYIHKRENFHNISFALIFFFSSIMSINYG $9 7110\nmiP=P1\u00e9Sh MVT 3 343\nmiP= P1691 MRHKES 6 786\nmiP=P1\u00e99n MKCMMKKRGLTWRKASCLVAKDDLPDLFRLHDSISNSCILDYYTF 4s $315\nmiP=P170 MFPRESL 7 879\nmiP=EP171la MNLLKKE RORRRORSI GSHCIASLVLKDGYMEKI 34 4057\nmiP=P171b MVLSGKLTF 9 995\nmiP=EP171c MLSLSHFHIC 10 1187\nmiPEP172a MASKI\u00a5i \u00e9 734\nmiP=P172b MCTYYYLINKYF 12 1621\nmiP=P172c MFPAKVWCRLES 11 1367\nmiP=EP172e MGSLSLFKSQLEILMLLLSLSK 22 2452\nmiP=P3139a MNIHTYHHLLFPSLVFHQSSDVPNALSLHIHTYEYIIVVIDPFRITLAFR 50 $917\nmiP= P31 9b MVPQINLWSSRVILKIRIDSSTHREED",
+    "bio_prob": 0.6186181306838989,
+    "sequence_score": 0.8278350309757915,
+    "is_valid": true,
+    "is_synthesized": false,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25807486",
+    "sequence": "MPSWHGMVLLPYVKHTHASTHTHLHNLYGCACELVELH",
+    "sequence_line": "miP=EP1\u00e94a MPSWHGMVLLPYVKHTHASTHTHIHNIYGCACELVEIH 37 4256",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is listed as a control miPEP, which implies it is a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "control miPEP 1643 0, 1pM"
+    ],
+    "verified_species": "Medicago truncatula",
+    "species_confidence": 0.95,
+    "species_evidence_line": "the pri-miR171b of Medicago truncatula and the pri-miR165a of Arabidopsis thaliana produce peptides, which we term miPEP171b and miPEP165a, respectively...",
+    "evidence_score": 1.0,
+    "context": " control miPEP 1643 0, 1pM\nC\n5\nS 400\n\u2014\nPo *\n5 300\n=\nS\n2 200\nE\n= 100\n5\nQo\ne\n0\ncontrol 35S miORF319\nd e\n*\nS 280 \u2018 ; =\nB .\n= 2\n= 200 = 150\n= =\ngS 18 o\n2 = 100\nE 100 .\n> $ 30\ns 6 =\n5 &\ne : e\n0\ncontrol miPEP 169d 0, ipM control 25S miPEPt7te\n\na | es |e eed |e)\nPromoter pri-mir171b 1127 91 100 8.07 161\n5\u2019 pri-miR171b 129 = \u201c 3.1 5\nmiPEP171b 62 2 2 3.22 3\nPre-miR171b 118 1 1 0.85 2\nmiR171b+miR171b* 42 0001\n3\u2019 pri-miR171b 259 39 42 15.06 89\n\nname sequence size (aa) size (MW)\nmiP=P1S\u00e9a MFCSIQCVARHLFPLHVREIKKATRAIKKGKTL 33 3824\nmiP=P1S\u20acc MKDONFPLLLAL 11 1359\nmiP=P1S\u00e9e MIYINKYGSISAVEDD 16 1818\nmiP=P1S\u00e9\u00a3 MSOR 4 520\nmiP=EP1S7c MMLHTITHRFESDVGC 1S 1776\nmiP=P1S7d MLYV 4 $24\nmiP=EP1S9a MIWPLLSLSFLLSKYV 16 1898\nmiP=P1S 9b MFYLS 5 \u00e9s9\nmiP=EP1\u00e90a MFCLLIPIFSFVFSPNRHLRLQEQ 24 2936\nmiP= P1\u00e90b MFSPQ 5 608\nmiPEP1\u00e96\u00e90c MEMRRGLVYNNIYI 14 1730\nmiP=P1\u00a2\u00e91 MKIPLFLPKL 10 1199\nmiP=EP1\u00e92a MVSGQEDSWLKLS SLCFLFLSLLOSLI 27 3045\nmiP=EP1\u00e92b MFLLIFLRLIMICVCSSIDFLRSVNYFCLFIYDL 34 4114\nmiP=EP16\u00e93 MSTTQEHRS i) 1076\nmiP=EP1\u00e94a MPSWHGMVLLPYVKHTHASTHTHIHNIYGCACELVEIH 37 4256\nmiP=EP1\u00e94b MMKVCDEQDGEAGHVHY 17 1949\nmiPEP1\u00e9Sa MRVKLFIQLRAGMLSGSRIL 18 2105\nmiP=P1\u00e9\u00e9a MLDLFRSNNRIEPSDFRED 19 2372\nmiP=P16\u00e9b MRDR a $76\nmiP=EP1\u00e9\u00e9c MKKRITRINLEEQIKKTLDDSRTRLHSP 28 3407\nmiP=P1\u00e9\u00e9d MKKIGSIDSF 10 1125\nmiPEP1\u00e97a MNRKISLSLS 10 1148\nmiP=P1\u00e97b MMGCEVGF 8 891\nmIPEP1\u00e9Sa MTICREK \u00e9 784\nmiP=EP1\u00e99c MPHTNLKDLFIFSPNVFFSFAIYLHNSWNKNYIHKRENFHNISFALIFFFSSIMSINYG $9 7110\nmiP=P1\u00e9Sh MVT 3 343\nmiP= P1691 MRHKES 6 786\nmiP=P1\u00e99n MKCMMKKRGLTWRKASCLVAKDDLPDLFRLHDSISNSCILDYYTF 4s $315\nmiP=P170 MFPRESL 7 879\nmiP=EP171la MNLLKKE RORRRORSI GSHCIASLVLKDGYMEKI 34 4057\nmiP=P171b MVLSGKLTF 9 995\nmiP=EP171c MLSLSHFHIC 10 1187\nmiPEP172a MASKI\u00a5i \u00e9 734\nmiP=P172b MCTYYYLINKYF 12 1621\nmiP=P172c MFPAKVWCRLES 11 1367\nmiP=EP172e MGSLSLFKSQLEILMLLLSLSK 22 2452\nmiP=P3139a MNIHTYHHLLFPSLVFHQSSDVPNALSLHIHTYEYIIVVIDPFRITLAFR 50 $917\nmiP= P31 9b MVPQINLWSSRVILKIRIDSSTHREEDHCIQNHKHGLSFIFSF 43 $120\nmiP=EP3S4a MSLOFYERVS FKNIVK 16 1977\nmiP=EP395c MTEQEEE SOMST 12 1429\nmiP=P3395e MYLOYIDNVISIYSNNRRVGRMFSRVPLSISLEIQ",
+    "bio_prob": 0.6413857340812683,
+    "sequence_score": 0.7195629483612147,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "control miPEP 1643 0, 1pM"
+  },
+  {
+    "pmid": "25807486",
+    "sequence": "MKKRLTRLNLEEQLKKTLDDSRTRLHSP",
+    "sequence_line": "miP=EP1\u00e9\u00e9c MKKRITRINLEEQIKKTLDDSRTRLHSP 28 3407",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is listed as a miPEP, which implies it's a peptide.",
+    "verified_techniques": [],
+    "technique_scores": [],
+    "technique_evidence_lines": [],
+    "verified_species": "Medicago truncatula",
+    "species_confidence": 0.95,
+    "species_evidence_line": "the pri-miR171b of Medicago truncatula and the pri-miR165a of Arabidopsis thaliana produce peptides, which we term miPEP171b and miPEP165a, respectively...",
+    "evidence_score": 1.0,
+    "context": "rol miPEP 169d 0, ipM control 25S miPEPt7te\n\na | es |e eed |e)\nPromoter pri-mir171b 1127 91 100 8.07 161\n5\u2019 pri-miR171b 129 = \u201c 3.1 5\nmiPEP171b 62 2 2 3.22 3\nPre-miR171b 118 1 1 0.85 2\nmiR171b+miR171b* 42 0001\n3\u2019 pri-miR171b 259 39 42 15.06 89\n\nname sequence size (aa) size (MW)\nmiP=P1S\u00e9a MFCSIQCVARHLFPLHVREIKKATRAIKKGKTL 33 3824\nmiP=P1S\u20acc MKDONFPLLLAL 11 1359\nmiP=P1S\u00e9e MIYINKYGSISAVEDD 16 1818\nmiP=P1S\u00e9\u00a3 MSOR 4 520\nmiP=EP1S7c MMLHTITHRFESDVGC 1S 1776\nmiP=P1S7d MLYV 4 $24\nmiP=EP1S9a MIWPLLSLSFLLSKYV 16 1898\nmiP=P1S 9b MFYLS 5 \u00e9s9\nmiP=EP1\u00e90a MFCLLIPIFSFVFSPNRHLRLQEQ 24 2936\nmiP= P1\u00e90b MFSPQ 5 608\nmiPEP1\u00e96\u00e90c MEMRRGLVYNNIYI 14 1730\nmiP=P1\u00a2\u00e91 MKIPLFLPKL 10 1199\nmiP=EP1\u00e92a MVSGQEDSWLKLS SLCFLFLSLLOSLI 27 3045\nmiP=EP1\u00e92b MFLLIFLRLIMICVCSSIDFLRSVNYFCLFIYDL 34 4114\nmiP=EP16\u00e93 MSTTQEHRS i) 1076\nmiP=EP1\u00e94a MPSWHGMVLLPYVKHTHASTHTHIHNIYGCACELVEIH 37 4256\nmiP=EP1\u00e94b MMKVCDEQDGEAGHVHY 17 1949\nmiPEP1\u00e9Sa MRVKLFIQLRAGMLSGSRIL 18 2105\nmiP=P1\u00e9\u00e9a MLDLFRSNNRIEPSDFRED 19 2372\nmiP=P16\u00e9b MRDR a $76\nmiP=EP1\u00e9\u00e9c MKKRITRINLEEQIKKTLDDSRTRLHSP 28 3407\nmiP=P1\u00e9\u00e9d MKKIGSIDSF 10 1125\nmiPEP1\u00e97a MNRKISLSLS 10 1148\nmiP=P1\u00e97b MMGCEVGF 8 891\nmIPEP1\u00e9Sa MTICREK \u00e9 784\nmiP=EP1\u00e99c MPHTNLKDLFIFSPNVFFSFAIYLHNSWNKNYIHKRENFHNISFALIFFFSSIMSINYG $9 7110\nmiP=P1\u00e9Sh MVT 3 343\nmiP= P1691 MRHKES 6 786\nmiP=P1\u00e99n MKCMMKKRGLTWRKASCLVAKDDLPDLFRLHDSISNSCILDYYTF 4s $315\nmiP=P170 MFPRESL 7 879\nmiP=EP171la MNLLKKE RORRRORSI GSHCIASLVLKDGYMEKI 34 4057\nmiP=P171b MVLSGKLTF 9 995\nmiP=EP171c MLSLSHFHIC 10 1187\nmiPEP172a MASKI\u00a5i \u00e9 734\nmiP=P172b MCTYYYLINKYF 12 1621\nmiP=P172c MFPAKVWCRLES 11 1367\nmiP=EP172e MGSLSLFKSQLEILMLLLSLSK 22 2452\nmiP=P3139a MNIHTYHHLLFPSLVFHQSSDVPNALSLHIHTYEYIIVVIDPFRITLAFR 50 $917\nmiP= P31 9b MVPQINLWSSRVILKIRIDSSTHREEDHCIQNHKHGLSFIFSF 43 $120\nmiP=EP3S4a MSLOFYERVS FKNIVK 16 1977\nmiP=EP395c MTEQEEE SOMST 12 1429\nmiP=P3395e MYLOYIDNVISIYSNNRRVGRMFSRVPLSISLEIQFFIK 39 4700\nmiP= P39 6a MTLSVFFHSFLELQNFFRFFFFSFDISYA 293 3636\nmiP=P397b MSKEIFFSPGFE 12 1418\nmiP= P39 9b MKRNM ) 678\nmiP=P399c MSLAKG= LPCHCFRLNIVYNREC 23 2703\nmiP= P393d MQCETI 5 6",
+    "bio_prob": 0.6266701817512512,
+    "sequence_score": 0.7360321309759543,
+    "is_valid": true,
+    "is_synthesized": false,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25807486",
+    "sequence": "MMKVCDEQDGEAGHVHY",
+    "sequence_line": "miP=EP1\u00e94b MMKVCDEQDGEAGHVHY 17 1949",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is listed as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Medicago truncatula",
+    "species_confidence": 0.95,
+    "species_evidence_line": "the pri-miR171b of Medicago truncatula and the pri-miR165a of Arabidopsis thaliana produce peptides, which we term miPEP171b and miPEP165a, respectively...",
+    "evidence_score": 1.0,
+    "context": "0\nE\n= 100\n5\nQo\ne\n0\ncontrol 35S miORF319\nd e\n*\nS 280 \u2018 ; =\nB .\n= 2\n= 200 = 150\n= =\ngS 18 o\n2 = 100\nE 100 .\n> $ 30\ns 6 =\n5 &\ne : e\n0\ncontrol miPEP 169d 0, ipM control 25S miPEPt7te\n\na | es |e eed |e)\nPromoter pri-mir171b 1127 91 100 8.07 161\n5\u2019 pri-miR171b 129 = \u201c 3.1 5\nmiPEP171b 62 2 2 3.22 3\nPre-miR171b 118 1 1 0.85 2\nmiR171b+miR171b* 42 0001\n3\u2019 pri-miR171b 259 39 42 15.06 89\n\nname sequence size (aa) size (MW)\nmiP=P1S\u00e9a MFCSIQCVARHLFPLHVREIKKATRAIKKGKTL 33 3824\nmiP=P1S\u20acc MKDONFPLLLAL 11 1359\nmiP=P1S\u00e9e MIYINKYGSISAVEDD 16 1818\nmiP=P1S\u00e9\u00a3 MSOR 4 520\nmiP=EP1S7c MMLHTITHRFESDVGC 1S 1776\nmiP=P1S7d MLYV 4 $24\nmiP=EP1S9a MIWPLLSLSFLLSKYV 16 1898\nmiP=P1S 9b MFYLS 5 \u00e9s9\nmiP=EP1\u00e90a MFCLLIPIFSFVFSPNRHLRLQEQ 24 2936\nmiP= P1\u00e90b MFSPQ 5 608\nmiPEP1\u00e96\u00e90c MEMRRGLVYNNIYI 14 1730\nmiP=P1\u00a2\u00e91 MKIPLFLPKL 10 1199\nmiP=EP1\u00e92a MVSGQEDSWLKLS SLCFLFLSLLOSLI 27 3045\nmiP=EP1\u00e92b MFLLIFLRLIMICVCSSIDFLRSVNYFCLFIYDL 34 4114\nmiP=EP16\u00e93 MSTTQEHRS i) 1076\nmiP=EP1\u00e94a MPSWHGMVLLPYVKHTHASTHTHIHNIYGCACELVEIH 37 4256\nmiP=EP1\u00e94b MMKVCDEQDGEAGHVHY 17 1949\nmiPEP1\u00e9Sa MRVKLFIQLRAGMLSGSRIL 18 2105\nmiP=P1\u00e9\u00e9a MLDLFRSNNRIEPSDFRED 19 2372\nmiP=P16\u00e9b MRDR a $76\nmiP=EP1\u00e9\u00e9c MKKRITRINLEEQIKKTLDDSRTRLHSP 28 3407\nmiP=P1\u00e9\u00e9d MKKIGSIDSF 10 1125\nmiPEP1\u00e97a MNRKISLSLS 10 1148\nmiP=P1\u00e97b MMGCEVGF 8 891\nmIPEP1\u00e9Sa MTICREK \u00e9 784\nmiP=EP1\u00e99c MPHTNLKDLFIFSPNVFFSFAIYLHNSWNKNYIHKRENFHNISFALIFFFSSIMSINYG $9 7110\nmiP=P1\u00e9Sh MVT 3 343\nmiP= P1691 MRHKES 6 786\nmiP=P1\u00e99n MKCMMKKRGLTWRKASCLVAKDDLPDLFRLHDSISNSCILDYYTF 4s $315\nmiP=P170 MFPRESL 7 879\nmiP=EP171la MNLLKKE RORRRORSI GSHCIASLVLKDGYMEKI 34 4057\nmiP=P171b MVLSGKLTF 9 995\nmiP=EP171c MLSLSHFHIC 10 1187\nmiPEP172a MASKI\u00a5i \u00e9 734\nmiP=P172b MCTYYYLINKYF 12 1621\nmiP=P172c MFPAKVWCRLES 11 1367\nmiP=EP172e MGSLSLFKSQLEILMLLLSLSK 22 2452\nmiP=P3139a MNIHTYHHLLFPSLVFHQSSDVPNALSLHIHTYEYIIVVIDPFRITLAFR 50 $917\nmiP= P31 9b MVPQINLWSSRVILKIRIDSSTHREEDHCIQNHKHGLSFIFSF 43 $120\nmiP=EP3S4a MSLOFYERVS FKNIVK 16 1977\nmiP=EP395c MTEQEEE SOMST 12 1429\nmiP=P3395e MYLOYIDNVISIYSNNRRVGRMFSRVPLSISLEIQFFIK 39 4700\nmiP= P39 6a MTLSVFFHSFLE",
+    "bio_prob": 0.6440204381942749,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25807486",
+    "sequence": "MSTTQEHRS",
+    "sequence_line": "miP=EP16\u00e93 MSTTQEHRS i) 1076",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is listed as a control miPEP, which implies it is a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "control miPEP 160b"
+    ],
+    "verified_species": "Medicago truncatula",
+    "species_confidence": 0.95,
+    "species_evidence_line": "the pri-miR171b of Medicago truncatula and the pri-miR165a of Arabidopsis thaliana produce peptides, which we term miPEP171b and miPEP165a, respectively...",
+    "evidence_score": 1.0,
+    "context": "@)\n2 =\n0 a\ncontrol miPEP 160b control miPEP 1643 0, 1pM\nC\n5\nS 400\n\u2014\nPo *\n5 300\n=\nS\n2 200\nE\n= 100\n5\nQo\ne\n0\ncontrol 35S miORF319\nd e\n*\nS 280 \u2018 ; =\nB .\n= 2\n= 200 = 150\n= =\ngS 18 o\n2 = 100\nE 100 .\n> $ 30\ns 6 =\n5 &\ne : e\n0\ncontrol miPEP 169d 0, ipM control 25S miPEPt7te\n\na | es |e eed |e)\nPromoter pri-mir171b 1127 91 100 8.07 161\n5\u2019 pri-miR171b 129 = \u201c 3.1 5\nmiPEP171b 62 2 2 3.22 3\nPre-miR171b 118 1 1 0.85 2\nmiR171b+miR171b* 42 0001\n3\u2019 pri-miR171b 259 39 42 15.06 89\n\nname sequence size (aa) size (MW)\nmiP=P1S\u00e9a MFCSIQCVARHLFPLHVREIKKATRAIKKGKTL 33 3824\nmiP=P1S\u20acc MKDONFPLLLAL 11 1359\nmiP=P1S\u00e9e MIYINKYGSISAVEDD 16 1818\nmiP=P1S\u00e9\u00a3 MSOR 4 520\nmiP=EP1S7c MMLHTITHRFESDVGC 1S 1776\nmiP=P1S7d MLYV 4 $24\nmiP=EP1S9a MIWPLLSLSFLLSKYV 16 1898\nmiP=P1S 9b MFYLS 5 \u00e9s9\nmiP=EP1\u00e90a MFCLLIPIFSFVFSPNRHLRLQEQ 24 2936\nmiP= P1\u00e90b MFSPQ 5 608\nmiPEP1\u00e96\u00e90c MEMRRGLVYNNIYI 14 1730\nmiP=P1\u00a2\u00e91 MKIPLFLPKL 10 1199\nmiP=EP1\u00e92a MVSGQEDSWLKLS SLCFLFLSLLOSLI 27 3045\nmiP=EP1\u00e92b MFLLIFLRLIMICVCSSIDFLRSVNYFCLFIYDL 34 4114\nmiP=EP16\u00e93 MSTTQEHRS i) 1076\nmiP=EP1\u00e94a MPSWHGMVLLPYVKHTHASTHTHIHNIYGCACELVEIH 37 4256\nmiP=EP1\u00e94b MMKVCDEQDGEAGHVHY 17 1949\nmiPEP1\u00e9Sa MRVKLFIQLRAGMLSGSRIL 18 2105\nmiP=P1\u00e9\u00e9a MLDLFRSNNRIEPSDFRED 19 2372\nmiP=P16\u00e9b MRDR a $76\nmiP=EP1\u00e9\u00e9c MKKRITRINLEEQIKKTLDDSRTRLHSP 28 3407\nmiP=P1\u00e9\u00e9d MKKIGSIDSF 10 1125\nmiPEP1\u00e97a MNRKISLSLS 10 1148\nmiP=P1\u00e97b MMGCEVGF 8 891\nmIPEP1\u00e9Sa MTICREK \u00e9 784\nmiP=EP1\u00e99c MPHTNLKDLFIFSPNVFFSFAIYLHNSWNKNYIHKRENFHNISFALIFFFSSIMSINYG $9 7110\nmiP=P1\u00e9Sh MVT 3 343\nmiP= P1691 MRHKES 6 786\nmiP=P1\u00e99n MKCMMKKRGLTWRKASCLVAKDDLPDLFRLHDSISNSCILDYYTF 4s $315\nmiP=P170 MFPRESL 7 879\nmiP=EP171la MNLLKKE RORRRORSI GSHCIASLVLKDGYMEKI 34 4057\nmiP=P171b MVLSGKLTF 9 995\nmiP=EP171c MLSLSHFHIC 10 1187\nmiPEP172a MASKI\u00a5i \u00e9 734\nmiP=P172b MCTYYYLINKYF 12 1621\nmiP=P172c MFPAKVWCRLES 11 1367\nmiP=EP172e MGSLSLFKSQLEILMLLLSLSK 22 2452\nmiP=P3139a MNIHTYHHLLFPSLVFHQSSDVPNALSLHIHTYEYIIVVIDPFRITLAFR 50 $917\nmiP= P31 9b MVPQINLWSSRVILKIRIDSSTHREEDHCIQNHKHGLSFIFSF 43 $120\nmiP=EP3S4a MSLOFYERVS FKNIVK 16 1977\nmiP=EP395c MTEQEEE SO",
+    "bio_prob": 0.6347991824150085,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "control miPEP 160b"
+  },
+  {
+    "pmid": "25807486",
+    "sequence": "MNRKLSLSLS",
+    "sequence_line": "miPEP1\u00e97a MNRKISLSLS 10 1148",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is listed as a miPEP / signaling peptide / precursor-derived peptide.",
+    "verified_techniques": [],
+    "technique_scores": [],
+    "technique_evidence_lines": [],
+    "verified_species": "Medicago truncatula",
+    "species_confidence": 0.95,
+    "species_evidence_line": "the pri-miR171b of Medicago truncatula and the pri-miR165a of Arabidopsis thaliana produce peptides, which we term miPEP171b and miPEP165a, respectively...",
+    "evidence_score": 1.0,
+    "context": "mir171b 1127 91 100 8.07 161\n5\u2019 pri-miR171b 129 = \u201c 3.1 5\nmiPEP171b 62 2 2 3.22 3\nPre-miR171b 118 1 1 0.85 2\nmiR171b+miR171b* 42 0001\n3\u2019 pri-miR171b 259 39 42 15.06 89\n\nname sequence size (aa) size (MW)\nmiP=P1S\u00e9a MFCSIQCVARHLFPLHVREIKKATRAIKKGKTL 33 3824\nmiP=P1S\u20acc MKDONFPLLLAL 11 1359\nmiP=P1S\u00e9e MIYINKYGSISAVEDD 16 1818\nmiP=P1S\u00e9\u00a3 MSOR 4 520\nmiP=EP1S7c MMLHTITHRFESDVGC 1S 1776\nmiP=P1S7d MLYV 4 $24\nmiP=EP1S9a MIWPLLSLSFLLSKYV 16 1898\nmiP=P1S 9b MFYLS 5 \u00e9s9\nmiP=EP1\u00e90a MFCLLIPIFSFVFSPNRHLRLQEQ 24 2936\nmiP= P1\u00e90b MFSPQ 5 608\nmiPEP1\u00e96\u00e90c MEMRRGLVYNNIYI 14 1730\nmiP=P1\u00a2\u00e91 MKIPLFLPKL 10 1199\nmiP=EP1\u00e92a MVSGQEDSWLKLS SLCFLFLSLLOSLI 27 3045\nmiP=EP1\u00e92b MFLLIFLRLIMICVCSSIDFLRSVNYFCLFIYDL 34 4114\nmiP=EP16\u00e93 MSTTQEHRS i) 1076\nmiP=EP1\u00e94a MPSWHGMVLLPYVKHTHASTHTHIHNIYGCACELVEIH 37 4256\nmiP=EP1\u00e94b MMKVCDEQDGEAGHVHY 17 1949\nmiPEP1\u00e9Sa MRVKLFIQLRAGMLSGSRIL 18 2105\nmiP=P1\u00e9\u00e9a MLDLFRSNNRIEPSDFRED 19 2372\nmiP=P16\u00e9b MRDR a $76\nmiP=EP1\u00e9\u00e9c MKKRITRINLEEQIKKTLDDSRTRLHSP 28 3407\nmiP=P1\u00e9\u00e9d MKKIGSIDSF 10 1125\nmiPEP1\u00e97a MNRKISLSLS 10 1148\nmiP=P1\u00e97b MMGCEVGF 8 891\nmIPEP1\u00e9Sa MTICREK \u00e9 784\nmiP=EP1\u00e99c MPHTNLKDLFIFSPNVFFSFAIYLHNSWNKNYIHKRENFHNISFALIFFFSSIMSINYG $9 7110\nmiP=P1\u00e9Sh MVT 3 343\nmiP= P1691 MRHKES 6 786\nmiP=P1\u00e99n MKCMMKKRGLTWRKASCLVAKDDLPDLFRLHDSISNSCILDYYTF 4s $315\nmiP=P170 MFPRESL 7 879\nmiP=EP171la MNLLKKE RORRRORSI GSHCIASLVLKDGYMEKI 34 4057\nmiP=P171b MVLSGKLTF 9 995\nmiP=EP171c MLSLSHFHIC 10 1187\nmiPEP172a MASKI\u00a5i \u00e9 734\nmiP=P172b MCTYYYLINKYF 12 1621\nmiP=P172c MFPAKVWCRLES 11 1367\nmiP=EP172e MGSLSLFKSQLEILMLLLSLSK 22 2452\nmiP=P3139a MNIHTYHHLLFPSLVFHQSSDVPNALSLHIHTYEYIIVVIDPFRITLAFR 50 $917\nmiP= P31 9b MVPQINLWSSRVILKIRIDSSTHREEDHCIQNHKHGLSFIFSF 43 $120\nmiP=EP3S4a MSLOFYERVS FKNIVK 16 1977\nmiP=EP395c MTEQEEE SOMST 12 1429\nmiP=P3395e MYLOYIDNVISIYSNNRRVGRMFSRVPLSISLEIQFFIK 39 4700\nmiP= P39 6a MTLSVFFHSFLELQNFFRFFFFSFDISYA 293 3636\nmiP=P397b MSKEIFFSPGFE 12 1418\nmiP= P39 9b MKRNM ) 678\nmiP=P399c MSLAKG= LPCHCFRLNIVYNREC 23 2703\nmiP= P393d MQCETI 5 622\nmiP=P403 MFCA o 470\nmiP=EP447a MVMAHH \u00e9 724\nmiP=P447b M",
+    "bio_prob": 0.6041091680526733,
+    "sequence_score": 0.6162688945547774,
+    "is_valid": true,
+    "is_synthesized": false,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MKFLFQLPCCSCFCFVEPKKGKHKDGETKE",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " CUFF.5248.1_0",
+    "bio_prob": 0.6878482699394226,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MLRKSKRKCKKLGKQMNRPERSKSLSRPPAR",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " CUFF.10284.1_0",
+    "bio_prob": 0.6859866976737976,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MSFDFEGKPTKLEIKRIGSNLVSCFFCKNGWTTCAAINLLKKKSSIRSFSNFTSIFLLGLVKFTSMDKSPLKNSGVSK",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " AT4G26488.1_1",
+    "bio_prob": 0.6948918700218201,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MKPAEKMQTKPFKEETEEPQFGKSPQQFV",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "Exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " AT1G10682.1_1",
+    "bio_prob": 0.7007623314857483,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "Exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MPAEDRSLKSGGLKSYRFVVTNEDRESPTKETGFHHQNHPSDAPTHNRSPGKLVAPTRHIDEIGS",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " AT5G44569.1_0",
+    "bio_prob": 0.6829855442047119,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MAGLQYSFFPTDFFYPRASPPATTSLVATNPKLEKTQKRDGLVVIDETRASLSLFIREKKTNQSQTWKKQPLWIEDDM",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " AT3G57157.1_0",
+    "bio_prob": 0.6862720251083374,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MIMISLVVVFFEVREIGRRRPSLPHRQQMYRKP",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " AT1G34418.1_0",
+    "bio_prob": 0.7023680806159973,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MELLSPNNSRRTKQWLPPRRGQVKIMIVRKLLKSTASIVSLWKRRDCK",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " CUFF.8063.1_0",
+    "bio_prob": 0.686468243598938,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MLCSLGVPFSVISVVNKKISCDVSTIFSSPDSGLLDGKVDVVKFLMMTYRHVLQLNSKVNTCFRIRVQR",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " CUFF.7749.1_0",
+    "bio_prob": 0.6829002499580383,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MGHLKLSSSTPTLLIVLLILHFLMVSADFTRTRVNYAMNREATEGNQAGGFNQRARINHGSYRGPRKHLVNPTVVDVYTVPESSV",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "The exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " AT1G31935.1_0",
+    "bio_prob": 0.6847638487815857,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "The exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MEGRGKVSMINGGDGTRKGGREHSSRPIPKRGQVKVGILLGFANSFASIFGSTRNFHGS",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "The exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " AT1G11185.1_1",
+    "bio_prob": 0.7132971882820129,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "The exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MVSEESRSNVVEKTNVNGQEPDIYAEKAIGFCSEAIVNDQQMLK",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " CUFF.9382.4_0",
+    "bio_prob": 0.6743896007537842,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MLLLIGVEIGRKEQSTHRTDRRWLIGDGGV",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " AT1G67105.1_1",
+    "bio_prob": 0.7065589427947998,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MRAKWKKKRMRRLKRKRRKMRQRSK",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " AT3G12965.1_0",
+    "bio_prob": 0.6953415274620056,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MQHQIGSWYLPRRLPPMCLCWRVALDLFRDFRSLSFADL",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "Exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " AT4G40065.1_2",
+    "bio_prob": 0.7251211404800415,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "Exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MTKSNSDSDYFDGYLRRKQLQTFTFSWLLPVLVKQETSLRLSSMPLVRDTSQHHSHLHHQLTPAAFNSAESDHHHHRSTHGTLQSLIFSLL",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "Exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " AT3G27990.1_0",
+    "bio_prob": 0.6854158639907837,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "Exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MEELNYLLTGKKFSGEEDCVVSVKP",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " AT1G11175.1_2",
+    "bio_prob": 0.7116730809211731,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MRRRCQFDGLVSFDADSLLLSKRSTTRINVDCN",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "Exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " AT1G46554.1_2",
+    "bio_prob": 0.6992534399032593,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "Exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MSIFCRIKSKELLQNLQLAPSSGKLHHWLHPKLM",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " CUFF.1800.1_3",
+    "bio_prob": 0.6941313147544861,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MNNAIVFCLFLSQFFMPFSGQSMFLPLVWFGCWLAFAPFTICFSFTPRSRRISLQFSFGSFPL",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "Exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " AT2G15292.1_0",
+    "bio_prob": 0.6771686673164368,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "Exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MVLTSHLLQRVAISTVVNICKQLFSESLSPFMDVVPILCTLLQYEDS",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "Exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " AT3G26612.1_0",
+    "bio_prob": 0.6778934001922607,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "Exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MISVSEFVLCIDDNVSGTCMRGKVVISDQAFVYAQSVYVEDGDNDDDDIYDYAPAA",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "Exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " CUFF.2091.1_0",
+    "bio_prob": 0.6936545372009277,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "Exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MSYVRLDSPSPRKREREGLIKSAQANRSYYVDRETGGDAESISYETHRSNFCRLFTATTTA",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " AT2G42485.1_0",
+    "bio_prob": 0.6860287189483643,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MCSLFASVFDCFVPKSDSKISSTDESDLKVLSSKKPKSKSPRAPIMVSYFPAGSNLSRL",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " CUFF.11137.1_0",
+    "bio_prob": 0.6746948957443237,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MSLTYTASFLIPHGTMCSQLDPACFKYGKQQHETTECYELQYTVRPMTSPSYRTNVPEVSTFLELVSLCHSLGSIPHEAH",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " AT5G54569.1_0",
+    "bio_prob": 0.6798961162567139,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MAWIVICMYENGIGRSFVFSPSCGGIGVTVLEALNDDLVKRQKRRWESTNKTWR",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " CUFF.5578.1_0",
+    "bio_prob": 0.6866346001625061,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MTGAAPPYDRRGFGYFGKPLSWNGRSCELW",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " CUFF.13340.1_0",
+    "bio_prob": 0.684188723564148,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MLILEPEVVVGLVYPLKAEEVRWLYLNPAEEVKIPAEDSEWMEEAGSGLDSGLGLGMEL",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "The exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " AT3G22072.1_0",
+    "bio_prob": 0.6933733820915222,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "The exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MERLNSKLYLQNCYIIKENERLRKKAQILNQENQQLLFELKQKLSKTKNSSGSNQGNNNNNNNLSSSSSASG",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "Exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " AT2G36307.1_0",
+    "bio_prob": 0.7067301273345947,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "Exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MVEEVAFSFDGGKDSSVSYNCSLVRIS",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "Exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " AT5G43403.1_2",
+    "bio_prob": 0.6933206915855408,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "Exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MAISHVHLFLLLILSLFLLPTLRAIDYSDCGDVSSPVEVTSVEEILKDKDKASFKISGSTSKNITGGDIYVDVKEA",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "Exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " AT3G27884.1_0",
+    "bio_prob": 0.6844052076339722,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "Exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MSRSICHQPCVSFDQSRALCIWFYRNTEIYFQEETTLFSCDFSQQANESFIGI",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " AT1G50055.1_0",
+    "bio_prob": 0.6999791264533997,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MRQRVAKGRLMAFDDVLNLGARREEKEMLM",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " CUFF.2857.1_0",
+    "bio_prob": 0.7064765691757202,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MRETRRTTRFDESRERFGKRKQNQSLELYRN",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " CUFF.9086.1_0",
+    "bio_prob": 0.6920409798622131,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MMTISNRSCWWQIFLWLANYKLHRTKRLVIIVAVAGSLSPSASRLSPSPWLFVAVNPCQKP",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "Exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " CUFF.7942.1_0",
+    "bio_prob": 0.6851001977920532,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "Exact line where 'synthesized' or 'synthetic' is mentioned if applicable, or null"
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MSPVAILFIVFGAFLMFLFILWLIHFLYHKAKKDGKESIACLGSGYGGDFGG",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " CUFF.2425.1_0",
+    "bio_prob": 0.6987664699554443,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MQVQRLSDQLSEEILHRSPSMSITRKNRKRSLSSLRKGHLCHANRNPHHSNAGEDSLPHSCFVL",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " CUFF.4093.1_1",
+    "bio_prob": 0.6934900283813477,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MTGALAWQVTKILNKKKKFRVVEGSSHGGFFLPGFSPLACVSCFSLFVHTTFDLDSFT",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " AT4G36648.1_0",
+    "bio_prob": 0.6932272911071777,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MGFNLWPTVMAEESLFRCRISLTSCTW",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " AT4G12917.1_1",
+    "bio_prob": 0.7027437090873718,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MCYLRLPTPDSSRQQVLHIGGSWPKSENSKSDSKSNRRRLPQVRCNLSRVFCISFVKCIFDSHAL",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " AT1G52347.1_0",
+    "bio_prob": 0.6925647854804993,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MHYHGCFCARCRVSTSPLPVIVMITVALVLLALSSVVQFEVAVSSGILDVYVKQICVT",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " AT2G21188.1_0",
+    "bio_prob": 0.715425968170166,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "25233276",
+    "sequence": "MMLESHQGSSNEIGTPSEKEKLFPLDFHRVMMVGFH",
+    "sequence_line": "from supplementary",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0
+    ],
+    "technique_evidence_lines": [
+      ""
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "We find that a large fraction of the lncRNAs expressed in cells from six different species is associated with ribosomes.",
+    "evidence_score": 1.0,
+    "context": " CUFF.3712.1_0",
+    "bio_prob": 0.6871741414070129,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": null
+  },
+  {
+    "pmid": "11842184",
+    "sequence": "MVLEEAWRERGVRGEGAHSSHSLT",
+    "sequence_line": "deduced from the nucleotide sequence of ORF A (MELCWLTTIHGS) and ORF B (MVLEEAWRERGVRGEGAHSSHSLT) of soybean ENOD40 cDNA. Synthetic analogs were",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "Synthetic Peptide",
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0,
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "Peptides were synthesized by Neosystem (Strasbourg, France) according to the amino acid sequence deduced from the nucleotide sequence of ORF A and ORF B of soybean ENOD40 cDNA.",
+      "Peptides were synthesized by Neosystem (Strasbourg, France) according to the amino acid sequence deduced from the nucleotide sequence of ORF A (MELCWLTTIHGS) and ORF B (MVLEEAWRERGVRGEGAHSSHSLT) of soybean ENOD40 cDNA."
+    ],
+    "verified_species": "Glycine max (soybean)",
+    "species_confidence": 0.95,
+    "species_evidence_line": "In vitro translation of soybean ENOD40 mRNA in wheat germ extracts revealed that the conserved nucleotide sequence at the 5 end (region I) encodes two peptides of 12 and 24 aa residues (peptides A and B).",
+    "evidence_score": 7.0,
+    "context": "m in a growth chamber at 26\u00b0C\nunder a photoperiod of 16 h. Inoculation of plants with Brady-\nrhizobium japonicum USDA 110 was performed directly upon\nsowing, and nodules were collected 4 wk after inoculation.\nUninfected soybean plants were cultured in the same way.\nNodules and uninfected roots were frozen in liquid nitrogen\nimmediately after harvesting and stored at \u000270\u00b0C.\nConstruction of Plasmids. The 0.68-kb fragment of Glycine max\nENOD40 cDNA (European Molecular Biology Laboratory da-\ntabase, accession no. X69154; ref. 4) was cloned into the BamHI\nand SalI sites of pBluescript SK (Stratagene). Single point\nmutations in the ATG of ORF A or ORF B were introduced into\nthe ENOD40 gene by using the QuikChange site-directed mu-\ntagenesis kit (Stratagene). The mutations were confirmed by\nDNA sequencing.\nSynthetic Peptides. Peptides were synthesized by Neosystem\n(Strasbourg, France) according to the amino acid sequence\ndeduced from the nucleotide sequence of ORF A (MELCWLTTIHGS) and ORF B (MVLEEAWRERGVRGEGAHSSHSLT) of soybean ENOD40 cDNA. Synthetic analogs were\nMELSWLTTIHGS and MELCWLTTIGGG for peptide A\nand\nEVGHSRAWHASEGLRMTSRLEGVE\nand\nMVLQQAWGQGGVGGQGAYSSYSLT for peptide B. Peptides\nwere labeled by coupling an additional biotinylated lysine resi-\ndue to the C terminus of the sequence. Control peptides were\nfrom Bachem and biocytin (biotinyl-L-lysin) was from Sigma.\nControl A was a biotinylated analog of the cGMP-dependent\nprotein kinase substrate with the sequence RKISASEFDRPLR.\nControl B was a biotinylated fragment (residues 44\u201368) of\nhuman PTH (RDAGSQRPRKKEDNVLVESHEKSLG). Pu-\nrity of each peptide was assessed by HPLC.\nIn Vitro Translation Assays. Plasmid DNA, with ENOD40 cDNA\ncloned downstream of the T3 RNA polymerase promoter, was\nlinearized with KpnI and transcribed into capped mRNA by\nusing the T3 Cap-Scribe system (Roche Diagnostics). Capped\nmRNA was translated in wheat germ extract in the presence of\n[35S]methionine (30 \u0002Ci, Amersham Pharmacia). The in vitro\ntranslation reaction contai",
+    "bio_prob": 0.7746049165725708,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "Peptides were synthesized by Neosystem (Strasbourg, France) according to the amino acid sequence deduced from the nucleotide sequence of ORF A (MELCWLTTIHGS) and ORF B (MVLEEAWRERGVRGEGAHSSHSLT) of soybean ENOD40 cDNA."
+  },
+  {
+    "pmid": "11842184",
+    "sequence": "MELCWLTTIHGS",
+    "sequence_line": "deduced from the nucleotide sequence of ORF A (MELCWLTTIHGS) and ORF B (MVLEEAWRERGVRGEGAHSSHSLT) of soybean ENOD40 cDNA. Synthetic analogs were",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "Synthetic Peptide",
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0,
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "Peptides were synthesized by Neosystem (Strasbourg, France) according to the amino acid sequence deduced from the nucleotide sequence of ORF A and ORF B of soybean ENOD40 cDNA.",
+      "Peptides were synthesized by Neosystem (Strasbourg, France) according to the amino acid sequence deduced from the nucleotide sequence of ORF A (MELCWLTTIHGS) and ORF B (MVLEEAWRERGVRGEGAHSSHSLT) of soybean ENOD40 cDNA."
+    ],
+    "verified_species": "Glycine max (soybean)",
+    "species_confidence": 0.95,
+    "species_evidence_line": "In vitro translation of soybean ENOD40 mRNA in wheat germ extracts revealed that the conserved nucleotide sequence at the 5 end (region I) encodes two peptides of 12 and 24 aa residues (peptides A and B).",
+    "evidence_score": 7.0,
+    "context": "wn in nitrogen-free medium in a growth chamber at 26\u00b0C\nunder a photoperiod of 16 h. Inoculation of plants with Brady-\nrhizobium japonicum USDA 110 was performed directly upon\nsowing, and nodules were collected 4 wk after inoculation.\nUninfected soybean plants were cultured in the same way.\nNodules and uninfected roots were frozen in liquid nitrogen\nimmediately after harvesting and stored at \u000270\u00b0C.\nConstruction of Plasmids. The 0.68-kb fragment of Glycine max\nENOD40 cDNA (European Molecular Biology Laboratory da-\ntabase, accession no. X69154; ref. 4) was cloned into the BamHI\nand SalI sites of pBluescript SK (Stratagene). Single point\nmutations in the ATG of ORF A or ORF B were introduced into\nthe ENOD40 gene by using the QuikChange site-directed mu-\ntagenesis kit (Stratagene). The mutations were confirmed by\nDNA sequencing.\nSynthetic Peptides. Peptides were synthesized by Neosystem\n(Strasbourg, France) according to the amino acid sequence\ndeduced from the nucleotide sequence of ORF A (MELCWLTTIHGS) and ORF B (MVLEEAWRERGVRGEGAHSSHSLT) of soybean ENOD40 cDNA. Synthetic analogs were\nMELSWLTTIHGS and MELCWLTTIGGG for peptide A\nand\nEVGHSRAWHASEGLRMTSRLEGVE\nand\nMVLQQAWGQGGVGGQGAYSSYSLT for peptide B. Peptides\nwere labeled by coupling an additional biotinylated lysine resi-\ndue to the C terminus of the sequence. Control peptides were\nfrom Bachem and biocytin (biotinyl-L-lysin) was from Sigma.\nControl A was a biotinylated analog of the cGMP-dependent\nprotein kinase substrate with the sequence RKISASEFDRPLR.\nControl B was a biotinylated fragment (residues 44\u201368) of\nhuman PTH (RDAGSQRPRKKEDNVLVESHEKSLG). Pu-\nrity of each peptide was assessed by HPLC.\nIn Vitro Translation Assays. Plasmid DNA, with ENOD40 cDNA\ncloned downstream of the T3 RNA polymerase promoter, was\nlinearized with KpnI and transcribed into capped mRNA by\nusing the T3 Cap-Scribe system (Roche Diagnostics). Capped\nmRNA was translated in wheat germ extract in the presence of\n[35S]methionine (30 \u0002Ci, Amersham Pharmacia). The",
+    "bio_prob": 0.7737947106361389,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "Peptides were synthesized by Neosystem (Strasbourg, France) according to the amino acid sequence deduced from the nucleotide sequence of ORF A (MELCWLTTIHGS) and ORF B (MVLEEAWRERGVRGEGAHSSHSLT) of soybean ENOD40 cDNA."
+  },
+  {
+    "pmid": "28041928",
+    "sequence": "MLLHRLSKFCKIERDIVYIS",
+    "sequence_line": "(MLLHRLSKFCKIERDIVYIS),",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "Synthetic Peptide",
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0,
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "Peptides were synthesized by Smartox (https://www.smartox-biotech.com/) and dissolved at 10 mM according to the manufacturer\u2019s recommendations.",
+      "miPEP Sequences Peptides were synthesized by Smartox (https://www.smartox-biotech.com/) and dissolved at 10 mM according to the manufacturer\u2019s recommendations."
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "Couzigou et al., 2017, Cell Host & Microbe 21, 106\u2013112 January 11, 2017 \u00aa 2017 Elsevier Inc.",
+    "evidence_score": 2.0,
+    "context": "ning\nstrategy\n(Lauressergues\net\nal.,\n2015). For promoter-GUS reporter gene analyses,\nthe sites of transcription initiation were identi\ufb01ed\nby using 50 RACEPCR, and 3 kb of promoter\nwere cloned upstream of the GUS open reading\nframe. To express the miR-resistant LOM1 gene,\nwe ampli\ufb01ed the full-length LOM1 gene under the control of 3 kb of its promot-\ning region and mutated the miRNA cleavage site while conserving the wild-\ntype amino acid sequence.\nPlant Transformation\nTobacco leaf in\ufb01ltration and M. truncatula root transformation were performed\naccording to Combier et al. (2008).\nPlant Cultivation\nPlants were cultivated according to Lauressergues et al. (2012). To test the ef-\nfects of miPEPs on mycorrhization, plants were watered three times per week\nwith 0.1 mM miPEP.\nmiPEP Sequences\nPeptides were synthesized by Smartox (https://www.smartox-biotech.com/)\nand dissolved at 10 mM according to the manufacturer\u2019s recommendations.\nThey\nare\nas\nfollows:\nMtmiPEP171a\n(MKKFEFPSAF),\nMtmiPEP171b\n(MLLHRLSKFCKIERDIVYIS),\nMtmiPEP171c\n(MVNLYFV),\nMtmiPEP171d\n(MHMYLK),\nMtmiPEP171e\n(MMVFGKPKKAMLVRFNPKTDLHV),\nMtmi-\nPEP171f (MSHID), LjmiPEP171b (MYHRSKAKLCQTDGDDGGGSDM), Osmi-\nPEP171i (MIARYIEREMTSKLGRGRKRAARLVAVFLLG), and SlmiPEP171e\n(MKLGNIEGTYFIICLGRYI).\nPhenotypic Analyses\nFor root mycorrhizal phenotyping, roots were cleared in 10% w/v KOH and\nrinsed in sterile water; treated for 30 min with \ufb02uorescein-conjugated wheat\ngerm agglutinin (WGAFITC) (Invitrogen), which binds fungal chitin; then\nwashed three times for 10 min in PBS and observed using an inverted light\n110\nCell Host & Microbe 21, 106\u2013112, January 11, 2017\n\nmicroscope or a confocal microscope (Leica). Alternatively, they were stained\nwith Schaeffer black ink as described by Vierheilig et al. (1998). The percent-\nage of mycorrhization was established by using the grid intersect method\ndescribed by Giovannetti and Mosse (1980). More precise quanti\ufb01cation of\nmycorrhizal colonization was also performed as described by Trouvelot\net al. (1986): the f",
+    "bio_prob": 0.7779973149299622,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "miPEP Sequences Peptides were synthesized by Smartox (https://www.smartox-biotech.com/) and dissolved at 10 mM according to the manufacturer\u2019s recommendations."
+  },
+  {
+    "pmid": "28041928",
+    "sequence": "MMVFGKPKKAMLVRFNPKTDLHV",
+    "sequence_line": "(MMVFGKPKKAMLVRFNPKTDLHV),",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "Synthetic Peptide",
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0,
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "Peptides were synthesized by Smartox (https://www.smartox-biotech.com/) and dissolved at 10 mM according to the manufacturer\u2019s recommendations.",
+      "miPEP Sequences Peptides were synthesized by Smartox (https://www.smartox-biotech.com/) and dissolved at 10 mM according to the manufacturer\u2019s recommendations."
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "Couzigou et al., 2017, Cell Host & Microbe 21, 106\u2013112 January 11, 2017 \u00aa 2017 Elsevier Inc.",
+    "evidence_score": 2.0,
+    "context": "es,\nthe sites of transcription initiation were identi\ufb01ed\nby using 50 RACEPCR, and 3 kb of promoter\nwere cloned upstream of the GUS open reading\nframe. To express the miR-resistant LOM1 gene,\nwe ampli\ufb01ed the full-length LOM1 gene under the control of 3 kb of its promot-\ning region and mutated the miRNA cleavage site while conserving the wild-\ntype amino acid sequence.\nPlant Transformation\nTobacco leaf in\ufb01ltration and M. truncatula root transformation were performed\naccording to Combier et al. (2008).\nPlant Cultivation\nPlants were cultivated according to Lauressergues et al. (2012). To test the ef-\nfects of miPEPs on mycorrhization, plants were watered three times per week\nwith 0.1 mM miPEP.\nmiPEP Sequences\nPeptides were synthesized by Smartox (https://www.smartox-biotech.com/)\nand dissolved at 10 mM according to the manufacturer\u2019s recommendations.\nThey\nare\nas\nfollows:\nMtmiPEP171a\n(MKKFEFPSAF),\nMtmiPEP171b\n(MLLHRLSKFCKIERDIVYIS),\nMtmiPEP171c\n(MVNLYFV),\nMtmiPEP171d\n(MHMYLK),\nMtmiPEP171e\n(MMVFGKPKKAMLVRFNPKTDLHV),\nMtmi-\nPEP171f (MSHID), LjmiPEP171b (MYHRSKAKLCQTDGDDGGGSDM), Osmi-\nPEP171i (MIARYIEREMTSKLGRGRKRAARLVAVFLLG), and SlmiPEP171e\n(MKLGNIEGTYFIICLGRYI).\nPhenotypic Analyses\nFor root mycorrhizal phenotyping, roots were cleared in 10% w/v KOH and\nrinsed in sterile water; treated for 30 min with \ufb02uorescein-conjugated wheat\ngerm agglutinin (WGAFITC) (Invitrogen), which binds fungal chitin; then\nwashed three times for 10 min in PBS and observed using an inverted light\n110\nCell Host & Microbe 21, 106\u2013112, January 11, 2017\n\nmicroscope or a confocal microscope (Leica). Alternatively, they were stained\nwith Schaeffer black ink as described by Vierheilig et al. (1998). The percent-\nage of mycorrhization was established by using the grid intersect method\ndescribed by Giovannetti and Mosse (1980). More precise quanti\ufb01cation of\nmycorrhizal colonization was also performed as described by Trouvelot\net al. (1986): the frequency (F) of mycorrhiza in the root system and the\narbuscule abundance (a) (perce",
+    "bio_prob": 0.779743492603302,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "miPEP Sequences Peptides were synthesized by Smartox (https://www.smartox-biotech.com/) and dissolved at 10 mM according to the manufacturer\u2019s recommendations."
+  },
+  {
+    "pmid": "28041928",
+    "sequence": "MYHRSKAKLCQTDGDDGGGSDM",
+    "sequence_line": "PEP171f (MSHID), LjmiPEP171b (MYHRSKAKLCQTDGDDGGGSDM), Osmi-",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "Synthetic Peptide",
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0,
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "Peptides were synthesized by Smartox (https://www.smartox-biotech.com/) and dissolved at 10 mM according to the manufacturer\u2019s recommendations.",
+      "miPEP Sequences Peptides were synthesized by Smartox (https://www.smartox-biotech.com/) and dissolved at 10 mM according to the manufacturer\u2019s recommendations."
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "Couzigou et al., 2017, Cell Host & Microbe 21, 106\u2013112 January 11, 2017 \u00aa 2017 Elsevier Inc.",
+    "evidence_score": 2.0,
+    "context": "ing 50 RACEPCR, and 3 kb of promoter\nwere cloned upstream of the GUS open reading\nframe. To express the miR-resistant LOM1 gene,\nwe ampli\ufb01ed the full-length LOM1 gene under the control of 3 kb of its promot-\ning region and mutated the miRNA cleavage site while conserving the wild-\ntype amino acid sequence.\nPlant Transformation\nTobacco leaf in\ufb01ltration and M. truncatula root transformation were performed\naccording to Combier et al. (2008).\nPlant Cultivation\nPlants were cultivated according to Lauressergues et al. (2012). To test the ef-\nfects of miPEPs on mycorrhization, plants were watered three times per week\nwith 0.1 mM miPEP.\nmiPEP Sequences\nPeptides were synthesized by Smartox (https://www.smartox-biotech.com/)\nand dissolved at 10 mM according to the manufacturer\u2019s recommendations.\nThey\nare\nas\nfollows:\nMtmiPEP171a\n(MKKFEFPSAF),\nMtmiPEP171b\n(MLLHRLSKFCKIERDIVYIS),\nMtmiPEP171c\n(MVNLYFV),\nMtmiPEP171d\n(MHMYLK),\nMtmiPEP171e\n(MMVFGKPKKAMLVRFNPKTDLHV),\nMtmi-\nPEP171f (MSHID), LjmiPEP171b (MYHRSKAKLCQTDGDDGGGSDM), Osmi-\nPEP171i (MIARYIEREMTSKLGRGRKRAARLVAVFLLG), and SlmiPEP171e\n(MKLGNIEGTYFIICLGRYI).\nPhenotypic Analyses\nFor root mycorrhizal phenotyping, roots were cleared in 10% w/v KOH and\nrinsed in sterile water; treated for 30 min with \ufb02uorescein-conjugated wheat\ngerm agglutinin (WGAFITC) (Invitrogen), which binds fungal chitin; then\nwashed three times for 10 min in PBS and observed using an inverted light\n110\nCell Host & Microbe 21, 106\u2013112, January 11, 2017\n\nmicroscope or a confocal microscope (Leica). Alternatively, they were stained\nwith Schaeffer black ink as described by Vierheilig et al. (1998). The percent-\nage of mycorrhization was established by using the grid intersect method\ndescribed by Giovannetti and Mosse (1980). More precise quanti\ufb01cation of\nmycorrhizal colonization was also performed as described by Trouvelot\net al. (1986): the frequency (F) of mycorrhiza in the root system and the\narbuscule abundance (a) (percentage) were calculated in the colonized root\nsections by usin",
+    "bio_prob": 0.770220935344696,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "miPEP Sequences Peptides were synthesized by Smartox (https://www.smartox-biotech.com/) and dissolved at 10 mM according to the manufacturer\u2019s recommendations."
+  },
+  {
+    "pmid": "28041928",
+    "sequence": "MIARYIEREMTSKLGRGRKRAARLVAVFLLG",
+    "sequence_line": "PEP171i (MIARYIEREMTSKLGRGRKRAARLVAVFLLG), and SlmiPEP171e",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "Synthetic Peptide",
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0,
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "Peptides were synthesized by Smartox (https://www.smartox-biotech.com/) and dissolved at 10 mM according to the manufacturer\u2019s recommendations.",
+      "miPEP Sequences Peptides were synthesized by Smartox (https://www.smartox-biotech.com/) and dissolved at 10 mM according to the manufacturer\u2019s recommendations."
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "Couzigou et al., 2017, Cell Host & Microbe 21, 106\u2013112 January 11, 2017 \u00aa 2017 Elsevier Inc.",
+    "evidence_score": 2.0,
+    "context": "e cloned upstream of the GUS open reading\nframe. To express the miR-resistant LOM1 gene,\nwe ampli\ufb01ed the full-length LOM1 gene under the control of 3 kb of its promot-\ning region and mutated the miRNA cleavage site while conserving the wild-\ntype amino acid sequence.\nPlant Transformation\nTobacco leaf in\ufb01ltration and M. truncatula root transformation were performed\naccording to Combier et al. (2008).\nPlant Cultivation\nPlants were cultivated according to Lauressergues et al. (2012). To test the ef-\nfects of miPEPs on mycorrhization, plants were watered three times per week\nwith 0.1 mM miPEP.\nmiPEP Sequences\nPeptides were synthesized by Smartox (https://www.smartox-biotech.com/)\nand dissolved at 10 mM according to the manufacturer\u2019s recommendations.\nThey\nare\nas\nfollows:\nMtmiPEP171a\n(MKKFEFPSAF),\nMtmiPEP171b\n(MLLHRLSKFCKIERDIVYIS),\nMtmiPEP171c\n(MVNLYFV),\nMtmiPEP171d\n(MHMYLK),\nMtmiPEP171e\n(MMVFGKPKKAMLVRFNPKTDLHV),\nMtmi-\nPEP171f (MSHID), LjmiPEP171b (MYHRSKAKLCQTDGDDGGGSDM), Osmi-\nPEP171i (MIARYIEREMTSKLGRGRKRAARLVAVFLLG), and SlmiPEP171e\n(MKLGNIEGTYFIICLGRYI).\nPhenotypic Analyses\nFor root mycorrhizal phenotyping, roots were cleared in 10% w/v KOH and\nrinsed in sterile water; treated for 30 min with \ufb02uorescein-conjugated wheat\ngerm agglutinin (WGAFITC) (Invitrogen), which binds fungal chitin; then\nwashed three times for 10 min in PBS and observed using an inverted light\n110\nCell Host & Microbe 21, 106\u2013112, January 11, 2017\n\nmicroscope or a confocal microscope (Leica). Alternatively, they were stained\nwith Schaeffer black ink as described by Vierheilig et al. (1998). The percent-\nage of mycorrhization was established by using the grid intersect method\ndescribed by Giovannetti and Mosse (1980). More precise quanti\ufb01cation of\nmycorrhizal colonization was also performed as described by Trouvelot\net al. (1986): the frequency (F) of mycorrhiza in the root system and the\narbuscule abundance (a) (percentage) were calculated in the colonized root\nsections by using Mycocalc software (https://www2.dijon.inra.fr/m",
+    "bio_prob": 0.7488638758659363,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "miPEP Sequences Peptides were synthesized by Smartox (https://www.smartox-biotech.com/) and dissolved at 10 mM according to the manufacturer\u2019s recommendations."
+  },
+  {
+    "pmid": "28041928",
+    "sequence": "MKLGNIEGTYFIICLGRYI",
+    "sequence_line": "(MKLGNIEGTYFIICLGRYI).",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "Synthetic Peptide",
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0,
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "Peptides were synthesized by Smartox (https://www.smartox-biotech.com/) and dissolved at 10 mM according to the manufacturer\u2019s recommendations.",
+      "miPEP Sequences Peptides were synthesized by Smartox (https://www.smartox-biotech.com/) and dissolved at 10 mM according to the manufacturer\u2019s recommendations."
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "Couzigou et al., 2017, Cell Host & Microbe 21, 106\u2013112 January 11, 2017 \u00aa 2017 Elsevier Inc.",
+    "evidence_score": 2.0,
+    "context": " express the miR-resistant LOM1 gene,\nwe ampli\ufb01ed the full-length LOM1 gene under the control of 3 kb of its promot-\ning region and mutated the miRNA cleavage site while conserving the wild-\ntype amino acid sequence.\nPlant Transformation\nTobacco leaf in\ufb01ltration and M. truncatula root transformation were performed\naccording to Combier et al. (2008).\nPlant Cultivation\nPlants were cultivated according to Lauressergues et al. (2012). To test the ef-\nfects of miPEPs on mycorrhization, plants were watered three times per week\nwith 0.1 mM miPEP.\nmiPEP Sequences\nPeptides were synthesized by Smartox (https://www.smartox-biotech.com/)\nand dissolved at 10 mM according to the manufacturer\u2019s recommendations.\nThey\nare\nas\nfollows:\nMtmiPEP171a\n(MKKFEFPSAF),\nMtmiPEP171b\n(MLLHRLSKFCKIERDIVYIS),\nMtmiPEP171c\n(MVNLYFV),\nMtmiPEP171d\n(MHMYLK),\nMtmiPEP171e\n(MMVFGKPKKAMLVRFNPKTDLHV),\nMtmi-\nPEP171f (MSHID), LjmiPEP171b (MYHRSKAKLCQTDGDDGGGSDM), Osmi-\nPEP171i (MIARYIEREMTSKLGRGRKRAARLVAVFLLG), and SlmiPEP171e\n(MKLGNIEGTYFIICLGRYI).\nPhenotypic Analyses\nFor root mycorrhizal phenotyping, roots were cleared in 10% w/v KOH and\nrinsed in sterile water; treated for 30 min with \ufb02uorescein-conjugated wheat\ngerm agglutinin (WGAFITC) (Invitrogen), which binds fungal chitin; then\nwashed three times for 10 min in PBS and observed using an inverted light\n110\nCell Host & Microbe 21, 106\u2013112, January 11, 2017\n\nmicroscope or a confocal microscope (Leica). Alternatively, they were stained\nwith Schaeffer black ink as described by Vierheilig et al. (1998). The percent-\nage of mycorrhization was established by using the grid intersect method\ndescribed by Giovannetti and Mosse (1980). More precise quanti\ufb01cation of\nmycorrhizal colonization was also performed as described by Trouvelot\net al. (1986): the frequency (F) of mycorrhiza in the root system and the\narbuscule abundance (a) (percentage) were calculated in the colonized root\nsections by using Mycocalc software (https://www2.dijon.inra.fr/mychintec/\nMycocalc-prg/download.html).\n",
+    "bio_prob": 0.7539255619049072,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "miPEP Sequences Peptides were synthesized by Smartox (https://www.smartox-biotech.com/) and dissolved at 10 mM according to the manufacturer\u2019s recommendations."
+  },
+  {
+    "pmid": "28041928",
+    "sequence": "MKKFEFPSAF",
+    "sequence_line": "(MKKFEFPSAF),",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "Synthetic Peptide",
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0,
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "Peptides were synthesized by Smartox (https://www.smartox-biotech.com/) and dissolved at 10 mM according to the manufacturer\u2019s recommendations.",
+      "miPEP Sequences Peptides were synthesized by Smartox (https://www.smartox-biotech.com/) and dissolved at 10 mM according to the manufacturer\u2019s recommendations."
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "Couzigou et al., 2017, Cell Host & Microbe 21, 106\u2013112 January 11, 2017 \u00aa 2017 Elsevier Inc.",
+    "evidence_score": 2.0,
+    "context": " using the Golden\nGate\ncloning\nstrategy\n(Lauressergues\net\nal.,\n2015). For promoter-GUS reporter gene analyses,\nthe sites of transcription initiation were identi\ufb01ed\nby using 50 RACEPCR, and 3 kb of promoter\nwere cloned upstream of the GUS open reading\nframe. To express the miR-resistant LOM1 gene,\nwe ampli\ufb01ed the full-length LOM1 gene under the control of 3 kb of its promot-\ning region and mutated the miRNA cleavage site while conserving the wild-\ntype amino acid sequence.\nPlant Transformation\nTobacco leaf in\ufb01ltration and M. truncatula root transformation were performed\naccording to Combier et al. (2008).\nPlant Cultivation\nPlants were cultivated according to Lauressergues et al. (2012). To test the ef-\nfects of miPEPs on mycorrhization, plants were watered three times per week\nwith 0.1 mM miPEP.\nmiPEP Sequences\nPeptides were synthesized by Smartox (https://www.smartox-biotech.com/)\nand dissolved at 10 mM according to the manufacturer\u2019s recommendations.\nThey\nare\nas\nfollows:\nMtmiPEP171a\n(MKKFEFPSAF),\nMtmiPEP171b\n(MLLHRLSKFCKIERDIVYIS),\nMtmiPEP171c\n(MVNLYFV),\nMtmiPEP171d\n(MHMYLK),\nMtmiPEP171e\n(MMVFGKPKKAMLVRFNPKTDLHV),\nMtmi-\nPEP171f (MSHID), LjmiPEP171b (MYHRSKAKLCQTDGDDGGGSDM), Osmi-\nPEP171i (MIARYIEREMTSKLGRGRKRAARLVAVFLLG), and SlmiPEP171e\n(MKLGNIEGTYFIICLGRYI).\nPhenotypic Analyses\nFor root mycorrhizal phenotyping, roots were cleared in 10% w/v KOH and\nrinsed in sterile water; treated for 30 min with \ufb02uorescein-conjugated wheat\ngerm agglutinin (WGAFITC) (Invitrogen), which binds fungal chitin; then\nwashed three times for 10 min in PBS and observed using an inverted light\n110\nCell Host & Microbe 21, 106\u2013112, January 11, 2017\n\nmicroscope or a confocal microscope (Leica). Alternatively, they were stained\nwith Schaeffer black ink as described by Vierheilig et al. (1998). The percent-\nage of mycorrhization was established by using the grid intersect method\ndescribed by Giovannetti and Mosse (1980). More precise quanti\ufb01cation of\nmycorrhizal colonization was also performed as describ",
+    "bio_prob": 0.7823478579521179,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "miPEP Sequences Peptides were synthesized by Smartox (https://www.smartox-biotech.com/) and dissolved at 10 mM according to the manufacturer\u2019s recommendations."
+  },
+  {
+    "pmid": "28041928",
+    "sequence": "MVNLYFV",
+    "sequence_line": "(MVNLYFV),",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "Synthetic Peptide",
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0,
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "Peptides were synthesized by Smartox (https://www.smartox-biotech.com/) and dissolved at 10 mM according to the manufacturer\u2019s recommendations.",
+      "miPEP Sequences Peptides were synthesized by Smartox (https://www.smartox-biotech.com/) and dissolved at 10 mM according to the manufacturer\u2019s recommendations."
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "Couzigou et al., 2017, Cell Host & Microbe 21, 106\u2013112 January 11, 2017 \u00aa 2017 Elsevier Inc.",
+    "evidence_score": 2.0,
+    "context": "\n2015). For promoter-GUS reporter gene analyses,\nthe sites of transcription initiation were identi\ufb01ed\nby using 50 RACEPCR, and 3 kb of promoter\nwere cloned upstream of the GUS open reading\nframe. To express the miR-resistant LOM1 gene,\nwe ampli\ufb01ed the full-length LOM1 gene under the control of 3 kb of its promot-\ning region and mutated the miRNA cleavage site while conserving the wild-\ntype amino acid sequence.\nPlant Transformation\nTobacco leaf in\ufb01ltration and M. truncatula root transformation were performed\naccording to Combier et al. (2008).\nPlant Cultivation\nPlants were cultivated according to Lauressergues et al. (2012). To test the ef-\nfects of miPEPs on mycorrhization, plants were watered three times per week\nwith 0.1 mM miPEP.\nmiPEP Sequences\nPeptides were synthesized by Smartox (https://www.smartox-biotech.com/)\nand dissolved at 10 mM according to the manufacturer\u2019s recommendations.\nThey\nare\nas\nfollows:\nMtmiPEP171a\n(MKKFEFPSAF),\nMtmiPEP171b\n(MLLHRLSKFCKIERDIVYIS),\nMtmiPEP171c\n(MVNLYFV),\nMtmiPEP171d\n(MHMYLK),\nMtmiPEP171e\n(MMVFGKPKKAMLVRFNPKTDLHV),\nMtmi-\nPEP171f (MSHID), LjmiPEP171b (MYHRSKAKLCQTDGDDGGGSDM), Osmi-\nPEP171i (MIARYIEREMTSKLGRGRKRAARLVAVFLLG), and SlmiPEP171e\n(MKLGNIEGTYFIICLGRYI).\nPhenotypic Analyses\nFor root mycorrhizal phenotyping, roots were cleared in 10% w/v KOH and\nrinsed in sterile water; treated for 30 min with \ufb02uorescein-conjugated wheat\ngerm agglutinin (WGAFITC) (Invitrogen), which binds fungal chitin; then\nwashed three times for 10 min in PBS and observed using an inverted light\n110\nCell Host & Microbe 21, 106\u2013112, January 11, 2017\n\nmicroscope or a confocal microscope (Leica). Alternatively, they were stained\nwith Schaeffer black ink as described by Vierheilig et al. (1998). The percent-\nage of mycorrhization was established by using the grid intersect method\ndescribed by Giovannetti and Mosse (1980). More precise quanti\ufb01cation of\nmycorrhizal colonization was also performed as described by Trouvelot\net al. (1986): the frequency (F) of mycorrh",
+    "bio_prob": 0.7860048413276672,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "miPEP Sequences Peptides were synthesized by Smartox (https://www.smartox-biotech.com/) and dissolved at 10 mM according to the manufacturer\u2019s recommendations."
+  },
+  {
+    "pmid": "28041928",
+    "sequence": "MHMYLK",
+    "sequence_line": "(MHMYLK),",
+    "sequence_confidence": 0.95,
+    "support_type": "strong",
+    "reason": "Sequence is explicitly described as a synthesized peptide.",
+    "verified_techniques": [
+      "Synthetic Peptide",
+      "synthesized"
+    ],
+    "technique_scores": [
+      1.0,
+      1.0
+    ],
+    "technique_evidence_lines": [
+      "Peptides were synthesized by Smartox (https://www.smartox-biotech.com/) and dissolved at 10 mM according to the manufacturer\u2019s recommendations.",
+      "miPEP Sequences Peptides were synthesized by Smartox (https://www.smartox-biotech.com/) and dissolved at 10 mM according to the manufacturer\u2019s recommendations."
+    ],
+    "verified_species": "Arabidopsis thaliana",
+    "species_confidence": 0.95,
+    "species_evidence_line": "Couzigou et al., 2017, Cell Host & Microbe 21, 106\u2013112 January 11, 2017 \u00aa 2017 Elsevier Inc.",
+    "evidence_score": 2.0,
+    "context": "S reporter gene analyses,\nthe sites of transcription initiation were identi\ufb01ed\nby using 50 RACEPCR, and 3 kb of promoter\nwere cloned upstream of the GUS open reading\nframe. To express the miR-resistant LOM1 gene,\nwe ampli\ufb01ed the full-length LOM1 gene under the control of 3 kb of its promot-\ning region and mutated the miRNA cleavage site while conserving the wild-\ntype amino acid sequence.\nPlant Transformation\nTobacco leaf in\ufb01ltration and M. truncatula root transformation were performed\naccording to Combier et al. (2008).\nPlant Cultivation\nPlants were cultivated according to Lauressergues et al. (2012). To test the ef-\nfects of miPEPs on mycorrhization, plants were watered three times per week\nwith 0.1 mM miPEP.\nmiPEP Sequences\nPeptides were synthesized by Smartox (https://www.smartox-biotech.com/)\nand dissolved at 10 mM according to the manufacturer\u2019s recommendations.\nThey\nare\nas\nfollows:\nMtmiPEP171a\n(MKKFEFPSAF),\nMtmiPEP171b\n(MLLHRLSKFCKIERDIVYIS),\nMtmiPEP171c\n(MVNLYFV),\nMtmiPEP171d\n(MHMYLK),\nMtmiPEP171e\n(MMVFGKPKKAMLVRFNPKTDLHV),\nMtmi-\nPEP171f (MSHID), LjmiPEP171b (MYHRSKAKLCQTDGDDGGGSDM), Osmi-\nPEP171i (MIARYIEREMTSKLGRGRKRAARLVAVFLLG), and SlmiPEP171e\n(MKLGNIEGTYFIICLGRYI).\nPhenotypic Analyses\nFor root mycorrhizal phenotyping, roots were cleared in 10% w/v KOH and\nrinsed in sterile water; treated for 30 min with \ufb02uorescein-conjugated wheat\ngerm agglutinin (WGAFITC) (Invitrogen), which binds fungal chitin; then\nwashed three times for 10 min in PBS and observed using an inverted light\n110\nCell Host & Microbe 21, 106\u2013112, January 11, 2017\n\nmicroscope or a confocal microscope (Leica). Alternatively, they were stained\nwith Schaeffer black ink as described by Vierheilig et al. (1998). The percent-\nage of mycorrhization was established by using the grid intersect method\ndescribed by Giovannetti and Mosse (1980). More precise quanti\ufb01cation of\nmycorrhizal colonization was also performed as described by Trouvelot\net al. (1986): the frequency (F) of mycorrhiza in the root system",
+    "bio_prob": 0.7830970287322998,
+    "sequence_score": 1.0,
+    "is_valid": true,
+    "is_synthesized": true,
+    "synthesized_line": "miPEP Sequences Peptides were synthesized by Smartox (https://www.smartox-biotech.com/) and dissolved at 10 mM according to the manufacturer\u2019s recommendations."
+  }
+]

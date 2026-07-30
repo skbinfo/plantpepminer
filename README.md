@@ -102,3 +102,12 @@ Results are saved to your `--output_dir`:
 - The pipeline skips re-parsing if `parsed_candidates/` already exists in the output directory. Delete it to force a fresh parse.
 - Each candidate requires up to 3 LLM calls (sequence + techniques + species). Use `--concurrency 2` on machines with limited RAM/VRAM.
 - Temperature is fixed at `0` for deterministic, reproducible results.
+
+## Evaluated Papers
+The extractor was benchmarked against a gold standard dataset using the following plant science papers (identified by PubMed ID, provided as `PMID.pdf`):
+- 11842184
+- 12015123
+- 15125775
+- 25233276
+- 25807486
+- 28041928

@@ -1,0 +1,12 @@
+Evaluation Report
+=================
+
+Total True Positives (TP): 56
+Total False Positives (FP): 7
+Total False Negatives (FN): 8
+
+Precision: 0.8889
+Recall: 0.8750
+F1 Score: 0.8819
+
+Per-PMID Results saved to metrics_by_pmid.csv
