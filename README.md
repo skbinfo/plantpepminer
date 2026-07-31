@@ -112,6 +112,7 @@ The extractor was benchmarked against a gold standard dataset using the followin
 - 25807486
 - 28041928
 
+<<<<<<< HEAD
 ---
 
 # Developers
@@ -142,3 +143,5 @@ National Institute of Plant Genome Research (NIPGR)
 New Delhi, India
 
 📧 **Email:** shailesh@nipgr.ac.in
+=======
+>>>>>>> b7fc9a6 (Update documentation)
