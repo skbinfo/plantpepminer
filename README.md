@@ -143,5 +143,4 @@ National Institute of Plant Genome Research (NIPGR)
 New Delhi, India
 
 📧 **Email:** shailesh@nipgr.ac.in
-=======
->>>>>>> b7fc9a6 (Update documentation)
+
