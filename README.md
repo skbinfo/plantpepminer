@@ -112,7 +112,6 @@ The extractor was benchmarked against a gold standard dataset using the followin
 - 25807486
 - 28041928
 
-<<<<<<< HEAD
 ---
 
 # Developers
